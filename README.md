@@ -1,8 +1,8 @@
 # Jacuzzi Controler
 
-# Hardware
+## Hardware you will need
 
 - ESP8266
 - DS18B20 Waterproof Temperature Sensor
-- Jacuzzi with broken or outdated control board
 - Relays
+- Jacuzzi with broken or outdated control board
